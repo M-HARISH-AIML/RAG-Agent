@@ -1,0 +1,30 @@
+Introduction to Artificial Intelligence
+
+Artificial Intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning, reasoning, and self-correction.
+
+Types of AI:
+1. Narrow AI – Focused on a single task, like Siri or Google Assistant.
+2. General AI – Performs any intellectual task that a human can do.
+3. Superintelligent AI – Surpasses human intelligence (still theoretical).
+
+Machine Learning:
+Machine learning is a subset of AI that enables systems to learn from data. It includes:
+- Supervised Learning: Algorithms learn from labeled data.
+- Unsupervised Learning: Algorithms find hidden patterns in unlabeled data.
+- Reinforcement Learning: Agents learn by interacting with the environment and receiving rewards.
+
+Deep Learning:
+A subset of machine learning involving neural networks with many layers. It's used in image recognition, NLP, and more.
+
+Applications of AI:
+- Healthcare: Diagnosing diseases using AI-powered imaging.
+- Finance: Fraud detection and algorithmic trading.
+- Autonomous Vehicles: Self-driving cars rely heavily on AI for perception, planning, and control.
+
+Challenges in AI:
+- Bias in data
+- Interpretability of models
+- Ethical concerns like privacy, job automation, and surveillance.
+
+Conclusion:
+AI continues to revolutionize industries, but it must be developed responsibly to ensure fairness, safety, and transparency.
